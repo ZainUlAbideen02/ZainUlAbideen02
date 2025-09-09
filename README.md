@@ -30,9 +30,6 @@ Passionate about **Machine Learning, AI, and Open Source**. Always learning, alw
 
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainUlAbideen02&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainUlAbideen02&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainUlAbideen02&theme=tokyonight)
-
-
 ---
 
 ## 🚀 Featured Project  
