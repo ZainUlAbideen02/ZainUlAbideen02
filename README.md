@@ -50,6 +50,20 @@
 
 ---
 
+## 🧩 LeetCode Stats  
+
+<p align="center">
+  <a href="https://leetcode.com/Zayn_02/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Zayn_02?theme=dark&font=Baloo%20Bhai&ext=heatmap" alt="LeetCode Stats">
+</p>
+
+---
+
 ## 🚀 Featured Project  
 📌 **Learn NumPy in 4 Easy Phases**  
 🔹 Step-by-step NumPy learning path with explanations and exercises.  
