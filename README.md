@@ -1,14 +1,14 @@
 <!-- Banner -->
-<h1 align="center">👋 Welcome to My GitHub Profile! I'm Zain Ul Abideen</h1>
-<h3 align="center">🎓 AI Student | 💻 Python & C++ | 📊 Data Science Enthusiast | 🌐 Open Source Contributor</h3>
+<h1 align="center"> Welcome to My GitHub Profile! I'm Zain Ul Abideen</h1>
+<h3 align="center"> AI Student |  Python,SQL & C++ |  Data Science Enthusiast | 🌐 Open Source Contributor</h3>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently in my **3rd semester of Artificial Intelligence**  
-- 📘 Learning **DSA, Python, Calculus, Statistics, and Computer Networking**  
-- 🤖 Passionate about **Machine Learning, AI, and Open Source**  
-- 🚀 Always learning, always building!  
+-  Currently in my **4th semester of Artificial Intelligence**  
+-  Learning **Introduction to Artificial Intelligence, Machine Learning,**  
+-  Passionate about **Machine Learning, AI, and Open Source**  
+-  Always learning, always building!  
 
 ---
 
