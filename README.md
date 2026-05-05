@@ -1,58 +1,63 @@
 <!-- Banner -->
-<h1 align="center"> Welcome to My GitHub Profile! I'm Zain Ul Abideen</h1>
-<h3 align="center"> AI Student & Aspiring MLOps Engineer | FastAPI, Scikit-learn & Next.js | 🌐 Open Source Contributor</h3>
+<h1 align="center">Zain Ul Abideen</h1>
+<p align="center">
+  <strong>Artificial Intelligence Student | Machine Learning & MLOps | Full-Stack AI Developer</strong>
+</p>
 
 ---
 
-## 🌟 About Me  
-- 🎓 Currently in my **4th semester of Bachelor of Science in Artificial Intelligence** at Air University.  
-- 🚀 Deeply engaged in **Model Deployment, MLOps, and Real-time Data Processing**.  
-- 🛠️ Currently building **LeaseSight** (Legal Auditing Platform) and **Real-Time Fraud Detection Engines**.  
-- 💡 Passionate about turning complex data into actionable AI solutions.
+## Professional Profile
+*   **Academic Focus:** 4th-semester Bachelor of Science in Artificial Intelligence at Air University.
+*   **Technical Interests:** Deeply engaged in MLOps, real-time data processing, and deploying scalable AI models.
+*   **Core Objective:** Building intelligent systems that solve real-world problems with a focus on digital safety and legal auditing.
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack
 
 <table align="center">
-<tr>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></td>
-<td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost"></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></td>
-</tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"></td>
+  </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects
 
-### 🛡️ **Real-Time Fraud Detection Engine**
-🔹 Built a robust fraud detection system using **XGBoost** and **SMOTE** to handle imbalanced transaction data.  
-🔹 Implemented data scaling and performance evaluation to ensure high-precision detection.
+### 🛡️ **Instagram Content Moderation Extension**
+**Technologies:** NLP, Transformer Models, JavaScript (Browser Extension API)
+*   Developed a browser extension that utilizes Natural Language Processing (NLP) and Transformer-based models to detect toxic content in real-time.
+*   Implements an automated blurring mechanism for identified toxic comments to improve user experience and digital well-being.
 
-### 📜 **LeaseSight**
-🔹 A legal auditing platform utilizing **Next.js**, **FastAPI**, and **Azure Document Intelligence**.  
-🔹 Focuses on automated risk scoring and automated document parsing for legal compliance.
+### 📜 **LeaseSight: Legal Auditing Platform (SaaS) **
+**Technologies:** Next.js, FastAPI, Azure Document Intelligence
+*   An automated legal auditing platform designed for risk scoring and document analysis.
+*   Leverages cloud-native AI to parse complex legal documents and provide actionable insights.
 
-### 📊 **NumPy Learning Path**
-🔹 A comprehensive, 4-phase guide for beginners to master NumPy for Data Science.
+### 💳 **Real-Time Fraud Detection Engine**
+**Technologies:** XGBoost, SMOTE, Scikit-Learn
+*   Engineered a high-precision fraud detection system for credit card transactions.
+*   Addressed significant class imbalance using SMOTE and optimized model performance for real-time inference.
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZainUlAbideen02&show_icons=true&theme=radical" height="160">
@@ -65,7 +70,7 @@
 
 ---
 
-## 🧩 LeetCode Stats  
+## LeetCode Activity
 
 <p align="center">
   <a href="https://leetcode.com/Zayn_02/">
@@ -79,13 +84,18 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Contact & Networking
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-b801bb36b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:241475@students.au.edu.pk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-b801bb36b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:241475@students.au.edu.pk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
-
-⭐️ From [ZainUlAbideen02](https://github.com/ZainUlAbideen02)
+<p align="center">
+  Generated by <a href="https://github.com/ZainUlAbideen02">ZainUlAbideen02</a>
+</p>
