@@ -1,14 +1,14 @@
 <!-- Banner -->
 <h1 align="center"> Welcome to My GitHub Profile! I'm Zain Ul Abideen</h1>
-<h3 align="center"> AI Student |  Python,SQL & C++ |  Data Science Enthusiast | 🌐 Open Source Contributor</h3>
+<h3 align="center"> AI Student & Aspiring MLOps Engineer | FastAPI, Scikit-learn & Next.js | 🌐 Open Source Contributor</h3>
 
 ---
 
 ## 🌟 About Me  
--  Currently in my **4th semester of Artificial Intelligence**  
--  Learning **Introduction to Artificial Intelligence, Machine Learning,**  
--  Passionate about **Machine Learning, AI, and Open Source**  
--  Always learning, always building!  
+- 🎓 Currently in my **4th semester of Bachelor of Science in Artificial Intelligence** at Air University.  
+- 🚀 Deeply engaged in **Model Deployment, MLOps, and Real-time Data Processing**.  
+- 🛠️ Currently building **LeaseSight** (Legal Auditing Platform) and **Real-Time Fraud Detection Engines**.  
+- 💡 Passionate about turning complex data into actionable AI solutions.
 
 ---
 
@@ -17,23 +17,38 @@
 <table align="center">
 <tr>
 <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></td>
+<td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost"></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></td>
 </tr>
 </table>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛡️ **Real-Time Fraud Detection Engine**
+🔹 Built a robust fraud detection system using **XGBoost** and **SMOTE** to handle imbalanced transaction data.  
+🔹 Implemented data scaling and performance evaluation to ensure high-precision detection.
+
+### 📜 **LeaseSight**
+🔹 A legal auditing platform utilizing **Next.js**, **FastAPI**, and **Azure Document Intelligence**.  
+🔹 Focuses on automated risk scoring and automated document parsing for legal compliance.
+
+### 📊 **NumPy Learning Path**
+🔹 A comprehensive, 4-phase guide for beginners to master NumPy for Data Science.
 
 ---
 
@@ -64,25 +79,13 @@
 
 ---
 
-## 🚀 Featured Project  
-📌 **Learn NumPy in 4 Easy Phases**  
-🔹 Step-by-step NumPy learning path with explanations and exercises.  
-🔹 Perfect for beginners in **Data Science & Machine Learning**.  
-
----
-
-## 📜 Certifications  
-- Google Developer  
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-b801bb36b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="241475@students.au.edu.pk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:241475@students.au.edu.pk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-⭐️ From [ZainUlAbideen02](https://github.com/ZainUlAbideen02)  
+⭐️ From [ZainUlAbideen02](https://github.com/ZainUlAbideen02)
