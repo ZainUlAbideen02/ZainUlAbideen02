@@ -45,7 +45,7 @@
 *   Developed a browser extension that utilizes Natural Language Processing (NLP) and Transformer-based models to detect toxic content in real-time.
 *   Implements an automated blurring mechanism for identified toxic comments to improve user experience and digital well-being.
 
-### 📜 **LeaseSight: Legal Auditing Platform (SaaS) **
+### 📜 **LeaseSight: Legal Auditing Platform**
 **Technologies:** Next.js, FastAPI, Azure Document Intelligence
 *   An automated legal auditing platform designed for risk scoring and document analysis.
 *   Leverages cloud-native AI to parse complex legal documents and provide actionable insights.
