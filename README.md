@@ -7,9 +7,9 @@
 ---
 
 ## Professional Profile
-*   **Academic Focus:** 4th-semester Bachelor of Science in Artificial Intelligence at Air University.
-*   **Technical Interests:** Deeply engaged in MLOps, real-time data processing, and deploying scalable AI models.
-*   **Core Objective:** Building intelligent systems that solve real-world problems with a focus on digital safety and legal auditing.
+*   **Academic Focus:** 5th-semester Bachelor of Science in Artificial Intelligence at Air University.
+*   **Technical Interests:** Deeply engaged in MLOps, real-time data processing, RAG pipelines, and deploying scalable AI models.
+*   **Core Objective:** Building high-throughput, intelligent systems that solve real-world problems in legal auditing, real-time processing, and digital safety.
 
 ---
 
@@ -19,20 +19,20 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Groq-F50057?style=flat-square&logo=groq&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td>
   </tr>
 </table>
 
@@ -40,20 +40,25 @@
 
 ## Featured Projects
 
+### 📜 **LeaseSight: Legal Auditing Platform**
+**Technologies:** Next.js, FastAPI, Groq LPU, Pinecone, Web3Forms, Stripe
+*   Built an AI-powered legal document auditing platform featuring hybrid RAG, BM25 scoring, and interactive 1:1 PDF bounding box overlays.
+*   Supports BYOK (Bring Your Own Key) execution along with Stripe subscriptions and custom contact pipelines.
+
+### 🎙️ **MockInterview Audio Streaming Backend**
+**Technologies:** FastAPI, Deepgram, Groq, MongoDB Atlas
+*   Developed an asynchronous, low-latency audio-streaming interview platform that generates dynamic real-time interview feedback.
+*   Includes built-in anti-cheating telemetry tracking recorded directly to MongoDB Atlas.
+
 ### 🛡️ **Instagram Content Moderation Extension**
 **Technologies:** NLP, Transformer Models, JavaScript (Browser Extension API)
-*   Developed a browser extension that utilizes Natural Language Processing (NLP) and Transformer-based models to detect toxic content in real-time.
-*   Implements an automated blurring mechanism for identified toxic comments to improve user experience and digital well-being.
-
-### 📜 **LeaseSight: Legal Auditing Platform**
-**Technologies:** Next.js, FastAPI, Azure Document Intelligence
-*   An automated legal auditing platform designed for risk scoring and document analysis.
-*   Leverages cloud-native AI to parse complex legal documents and provide actionable insights.
+*   Developed a browser extension utilizing Transformer-based models to detect toxic content in active sessions.
+*   Implements real-time dynamic blurring on identified toxic comments to improve online safety.
 
 ### 💳 **Real-Time Fraud Detection Engine**
-**Technologies:** XGBoost, SMOTE, Scikit-Learn
-*   Engineered a high-precision fraud detection system for credit card transactions.
-*   Addressed significant class imbalance using SMOTE and optimized model performance for real-time inference.
+**Technologies:** XGBoost, SMOTE, Scikit-Learn, Python
+*   Engineered a high-precision fraud detection system for credit card transaction streams.
+*   Handled extreme class imbalances using SMOTE and optimized inference pipelines for low latency.
 
 ---
 
